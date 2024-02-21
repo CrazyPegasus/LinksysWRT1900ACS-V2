@@ -16,4 +16,4 @@
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git crazy https://github.com/CrazyPegasus/openwrt-packages' >>feeds.conf.default
-echo 'src-git eqosplus  https://github.com/sirpdboy/luci-app-eqosplus' >>feeds.conf.default
+#echo 'src-git eqosplus  https://github.com/sirpdboy/luci-app-eqosplus' >>feeds.conf.default
